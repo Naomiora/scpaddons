@@ -1,0 +1,8 @@
+{
+    "scp682.jaw_snap" : {
+        "category" : "neutral",
+        "sounds" : [
+            "scpadgrace:jaw_snap"
+        ]
+    }
+}
